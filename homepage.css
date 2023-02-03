@@ -1,0 +1,95 @@
+.main{
+    height: 82%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-air{
+    height: 14.3%;
+}
+
+.title{
+    height: max-content;
+    display: flex;
+}
+
+.title-air{
+    width: 5%;
+}
+
+.title-text{
+    height: 100%;
+    flex: 1;
+    font-size: 78px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    font-family: 'Inter', sans-serif;
+}
+
+.middle-air{
+    height: 10%;
+}
+
+.links{
+    flex: 1;
+    display: flex;
+}
+
+.link-container{
+    height: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.link-text{
+    color: white;
+    align-self: center;
+    font-size: 48px;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.link-image{
+    width: 100%;
+    flex: 1;
+    color: white;
+}
+
+.image-my-work{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-about-me{
+    width: 46%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-contact{
+    width: 46%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-about-me{
+    text-decoration: none;
+}
+
+.button-decoration{
+    text-decoration: none;
+    color: #00FFFF;
+}
+
+.header-current{
+    color: #1400FF;
+}

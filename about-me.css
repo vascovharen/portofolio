@@ -1,0 +1,55 @@
+.button-decoration{
+    text-decoration: none;
+    color: #00FFFF;
+}
+
+.header-current{
+    color: #1400FF;
+}
+
+.main{
+    height: 82%;
+    display: flex;
+}
+
+.top-air{
+    height: 14.3%;
+}
+
+.title{
+    height: 14.3%;
+    display: flex;
+}
+
+.title-air{
+    width: 8%;
+}
+
+.title-text{
+    height: 100%;
+    flex: 1;
+    font-size: 78px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    font-family: 'Inter', sans-serif;
+}
+
+.flex-container{
+    width: 60%;
+}
+
+.about-me-text{
+    font-size: 150%;
+    color: white;
+    margin-top: 5%;
+}
+
+.text-container{
+    display: flex;
+}
+
+.image{
+    align-self: center;
+    height: 50%;
+}

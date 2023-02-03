@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background: radial-gradient(50% 98.88% at 50% 50%, rgba(120, 0, 215, 0.4) 0%, rgba(128, 0, 255, 0) 100%)#000000;
+    font-family: 'Inter', sans-serif;
+}
+
+.header {
+    display: flex;
+    height: 9%;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    background: rgba(142, 0, 253, 0.37);
+    color: #00FFFF;
+}
+
+.header-fillup{
+    
+    width: 5%;
+}
+
+.header-button{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 10%;
+    padding-left: 5px;
+}
+
+.temp-fillup{
+    height: 82%;
+}
+
+.footer {
+    background: rgba(142, 0, 253, 0.37);
+    height: 9%;
+    width: 100%;
+    color: #00FFFF;
+    font-size: 16px;
+    display: flex;
+}
+
+.footer-fillup{
+    width: 5%;
+}
+
+.footer-text{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
